@@ -1,0 +1,44 @@
+/* 1. Thay đổi font chữ và kích thước chữ cho body */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* 2. Đổi màu nền cho header */
+header {
+  background-color: #1a365d;
+}
+
+/* 3. Đổi màu nền cho nav */
+nav {
+  background-color: #2b6cb0;
+}
+
+/* 4. Đổi màu nền và kích thước chữ cho main */
+main {
+  background-color: #f7fafc;
+  font-size: 18px;
+}
+
+/* 5. Đổi màu nền cho footer */
+footer {
+  background-color: #1a365d;
+}
+
+/* 6. Đổi kiểu hiển thị (display) và chiều rộng (width) cho thẻ li */
+li {
+  display: inline-block;
+  width: 120px;
+}
+
+/* 7. Căn giữa, đổi font chữ và màu chữ cho h1 */
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #ffffff;
+}
+
+/* 8. Đổi khoảng cách dòng (line-height) cho thẻ p */
+p {
+  line-height: 1.6;
+}
